@@ -52,4 +52,9 @@ modules:
           - io.github.kolunmi.Bazaar
           - com.github.tchx84.Flatseal
 
+  - type: script
+    snippets:
+      - "gsettings set org.gnome.desktop.interface gtk-enable-primary-paste true" #enable middleclick paste
+    scripts:
+  
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
