@@ -28,6 +28,7 @@ modules:
         - lshw 
         - deja-dup 
         - gnome-tweaks
+        - dconf-editor
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
@@ -48,5 +49,7 @@ modules:
           - page.codeberg.libre_menu_editor.LibreMenuEditor 
           - org.onlyoffice.desktopeditors
           - com.mattjakeman.ExtensionManager
+          - io.github.kolunmi.Bazaar
+          - com.github.tchx84.Flatseal
 
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
