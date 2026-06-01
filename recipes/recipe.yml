@@ -57,5 +57,7 @@ modules:
   - type: script
     snippets:
       - "gsettings set org.gnome.desktop.interface gtk-enable-primary-paste true" #enable middleclick paste
+    scripts:
+     - ble.sh
   
   - type: signing # this sets up the proper policy & signing files for signed images to work fully
