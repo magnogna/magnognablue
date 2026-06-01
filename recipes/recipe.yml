@@ -29,6 +29,7 @@ modules:
         - deja-dup 
         - gnome-tweaks
         - dconf-editor
+        - yaru-theme
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
@@ -37,6 +38,7 @@ modules:
         - htop
         - nvtop
         - gnome-software
+        - distrobox
         - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
 
   - type: default-flatpaks
