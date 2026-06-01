@@ -30,6 +30,8 @@ modules:
         - gnome-tweaks
         - dconf-editor
         - yaru-theme
+        - make
+        - gawk
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
