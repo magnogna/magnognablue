@@ -26,7 +26,6 @@ modules:
         - deja-dup
         - micro
         - starship
-        - cascadia-mono-nf-fonts
         - lshw
         - gnome-tweaks
         - dconf-editor
