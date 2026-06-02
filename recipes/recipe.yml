@@ -25,7 +25,6 @@ modules:
         - lshw
       #shell
         - zsh
-        - zsh-autosuggestions
       #gnome
         - gnome-tweaks
         - dconf-editor
