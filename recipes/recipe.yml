@@ -22,18 +22,29 @@ modules:
       copr:
         - atim/starship
     install:
-      packages:
+      packages:        
+        #utils
+        - deja-dup
         - micro
         - starship
-        - lshw 
-        - deja-dup 
+        - cascardia-mono-nf-fons
+        - lshw
+        #gnome
         - gnome-tweaks
         - dconf-editor
+        - gnome-calculator
+        - gnome-calendar
+        - gnome-themes-extra
+        - papers
+        - papers-nautilus
         - yaru-theme
+        #build
         - make
         - gawk
+        #appimages
         - fuse
         - fuse-libs
+        
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
