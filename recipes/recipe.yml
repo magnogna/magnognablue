@@ -42,7 +42,6 @@ modules:
     remove:
       packages:
         - firefox
-        - gnome-software
         - firefox-langpacks # also remove firefox dependency (not required for all packages, this is a special case)
 
   - type: default-flatpaks
