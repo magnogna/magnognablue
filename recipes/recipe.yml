@@ -30,6 +30,7 @@ modules:
         - gnome-calculator
         - gnome-calendar
         - papers
+        - loupe
         - adw-gtk3-theme
       #build
         - make
