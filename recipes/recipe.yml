@@ -27,7 +27,7 @@ modules:
         - deja-dup
         - micro
         - starship
-        - cascardia-mono-nf-fons
+        - cascadia-mono-nf-fonts
         - lshw
         #gnome
         - gnome-tweaks
