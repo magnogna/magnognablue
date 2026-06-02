@@ -26,12 +26,12 @@ modules:
         - fish
       #gnome
         - gnome-tweaks
+		- simple-scan
         - dconf-editor
         - gnome-calculator
         - gnome-calendar
         - papers
         - loupe
-		- simple-scan
         - adw-gtk3-theme
       #build
         - make
