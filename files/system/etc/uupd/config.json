@@ -10,7 +10,7 @@
     },
     "modules": {
         "brew": {
-            "disable": true
+            "disable": false
         },
         "distrobox": {
             "disable": true
