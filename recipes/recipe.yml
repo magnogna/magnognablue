@@ -23,7 +23,6 @@ modules:
       #utils
         - micro
         - lshw
-        - bazaar
       #gnome
         - gnome-tweaks
         - dconf-editor
