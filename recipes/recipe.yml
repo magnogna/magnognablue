@@ -23,13 +23,11 @@ modules:
         - atim/starship
     install:
       packages:        
-        #utils
         - deja-dup
         - micro
         - starship
         - cascadia-mono-nf-fonts
         - lshw
-        #gnome
         - gnome-tweaks
         - dconf-editor
         - gnome-calculator
@@ -38,11 +36,10 @@ modules:
         - papers
         - papers-nautilus
         - yaru-theme
-        #build
         - make
         - gawk
-        #appimages
         - fuse
+        - fuse-libs
         
     remove:
       packages:
