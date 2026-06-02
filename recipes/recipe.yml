@@ -24,7 +24,6 @@ modules:
         - micro
         - lshw
         - fish
-        - gedit
       #gnome
         - gnome-tweaks
         - dconf-editor
