@@ -32,7 +32,7 @@ modules:
         - dconf-editor
         - gnome-calculator
         - gnome-calendar
-        - gnome-themes-extra
+        #gnome-themes-extra
         - papers
         - yaru-theme
       #build
