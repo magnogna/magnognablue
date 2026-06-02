@@ -32,6 +32,8 @@ modules:
         - yaru-theme
         - make
         - gawk
+        - fuse
+        - fuse-libs
     remove:
       packages:
         # example: removing firefox (in favor of the flatpak)
