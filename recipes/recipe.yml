@@ -31,7 +31,7 @@ modules:
         - gnome-calendar
         - papers
         - loupe
-	- simple-scan
+		- simple-scan
         - adw-gtk3-theme
       #build
         - make
