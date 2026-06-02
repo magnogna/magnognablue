@@ -31,7 +31,6 @@ modules:
         - gnome-calculator
         - gnome-calendar
         - papers
-        - yaru-theme
       #build
         - make
         - gawk
