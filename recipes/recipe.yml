@@ -21,7 +21,6 @@ modules:
     install:
       packages:   
       #utils
-        - deja-dup
         - micro
         - lshw
       #shell
@@ -32,7 +31,6 @@ modules:
         - dconf-editor
         - gnome-calculator
         - gnome-calendar
-        #gnome-themes-extra
         - papers
         - yaru-theme
       #build
