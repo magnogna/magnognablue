@@ -32,8 +32,8 @@ modules:
         - papers
         - adw-gtk3-theme
       #build
-        - make
-        - gawk
+      #  - make
+      #  - gawk
       #appimages
         - fuse
         - fuse-libs
