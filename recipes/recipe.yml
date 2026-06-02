@@ -26,7 +26,6 @@ modules:
         - fish
       #gnome
         - gnome-tweaks
-		- simple-scan
         - dconf-editor
         - gnome-calculator
         - gnome-calendar
