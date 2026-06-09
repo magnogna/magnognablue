@@ -25,6 +25,7 @@ modules:
         - lshw
         - fish
         - cockpit
+        - cockpit-podman
       #gnome
         - gnome-tweaks
         - dconf-editor
