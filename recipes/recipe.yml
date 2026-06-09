@@ -24,6 +24,7 @@ modules:
         - micro
         - lshw
         - fish
+        - cockpit
       #gnome
         - gnome-tweaks
         - dconf-editor
@@ -57,6 +58,11 @@ modules:
           - com.mattjakeman.ExtensionManager
           - io.github.kolunmi.Bazaar
           - com.github.tchx84.Flatseal
+
+  - type: systemd
+    system:
+      enabled:
+      - cockpit.socket
 
   ## - type: script
   ##  snippets:
